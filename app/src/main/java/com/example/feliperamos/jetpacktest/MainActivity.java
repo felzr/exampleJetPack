@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onChanged(Integer qtd) {
                 System.out.println(qtd);
-                qtdRe.setText("Qunatidade de registros: " + qtd.toString());
+                qtdRe.setText("Quantidade de registros: " + qtd.toString());
             }
         });
         bt_add = findViewById(R.id.bt_add);
