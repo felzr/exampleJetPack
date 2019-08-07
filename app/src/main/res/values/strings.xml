@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JetPackTest</string>
+    <string name="adicionar_item">Adicionar Item</string>
+    <string name="adicionar_itens">Adicionar Itens</string>
+    <string name="nome_do_item">Nome do Item</string>
+    <string name="nao_salvo">Não foi possivel salvar item</string>
+    <string name="id_do_item">Id do Item: </string>
+    <string name="qtd_itnes">Quantidade de Itens:</string>
+    <string name="voltar">Voltar</string>
+    <string name="editar">Editar</string>
+    <string name="editar_item">Editar Item</string>
+</resources>
